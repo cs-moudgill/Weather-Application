@@ -1,0 +1,58 @@
+body{
+text-align: center;
+font-family: 'Gochi Hand', cursive;
+}
+button{
+    margin-top: 20px;
+}
+form{
+    margin-top: 70px;
+}
+input{
+    font-size: 30px;
+    border: 1px solid darkgrey;
+    border-radius: 5px;
+}
+::placeholder{
+    color: darkgray;
+}
+h1{
+    color: crimson;
+    margin-top: 20px;
+    font-size: 90px;
+}
+.below-box{
+    background-color: white;
+    border-radius:5px;
+    height: 250px;
+    width: 350px;
+    margin: 10px auto;
+    border: 1px solid gray;
+    overflow: hidden;
+}
+.status{
+    background-color: #F7F7F7;
+    height: 70px;
+    border-radius:5px 5px 0 0;
+    font-size: 30px;
+    padding-top: 10px;
+    
+}
+
+h2{
+  font-weight: bold;
+  font-size: 50px; 
+  margin-top: 10px; 
+}
+.temp p{
+    margin: 1px;
+    padding: 2px;
+}
+span{
+    color: black;
+    font-weight: lighter;
+    
+}
+hr{
+    margin: 0;
+}

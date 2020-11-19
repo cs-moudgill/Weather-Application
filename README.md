@@ -1,0 +1,1 @@
+I have made this application with JavaScript. API of open Weather is integrated in to the application to get the Weather updates.
